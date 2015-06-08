@@ -1,0 +1,14 @@
+#include "stdio.h"
+
+int main(void)
+{
+
+	int a;
+
+	printf("please insert:");
+	scanf(%d",&a);
+
+  printf("your input %d\n", a);
+  
+  return 0;
+}
